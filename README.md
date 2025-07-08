@@ -14,13 +14,13 @@ Este repositório contém o pré-projeto e a refatoração do desenvolvimento da
 
 ## 📦 Tecnologias Utilizadas
 
-| Pacote                         | Versão        | 
+| Pacote                        | Versão        | 
 |-------------------------------|----------------|
 | `react`                       | `18.0.0`       | 
 | `typescript`                  | `4.6.3`        |
 | `materialize-css`             | `1.0.0-rc.2 `  |
 | `web-vitals`                  | `2.1.4`        |
-| `Node.js`                     | `v16.14.2`     |
+| `Node.js`                     | `16.14.2`     |
 | `VSCode`                      | `Recomendado`  |
 
 

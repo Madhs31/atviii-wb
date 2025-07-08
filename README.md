@@ -14,11 +14,15 @@ Este repositório contém o pré-projeto e a refatoração do desenvolvimento da
 
 ## 📦 Tecnologias Utilizadas
 
-- **React 16.8+ (com Hooks) e React 18 (para createRoot):** Biblioteca JavaScript para construção de interfaces de usuário, utilizando componentes de função e o sistema de Hooks.
-- **MaterializeCSS 1.0.0:** Pode ser substituído por outro framework frontend, se necessário.
-- **TypeScript**
-- **HTML e CSS**
-- **Visual Studio Code (VSCode)**
+| Pacote                         | Versão        | 
+|-------------------------------|----------------|
+| `react`                       | `18.0.0`       | 
+| `typescript`                  | `4.6.3`        |
+| `materialize-css`             | `1.0.0-rc.2 `  |
+| `web-vitals`                  | `2.1.4`        |
+| `Node.js`                     | `v16.14.2`     |
+| `VSCode`                      | `Recomendado`  |
+
 
 ## 📱 Requisitos
 
